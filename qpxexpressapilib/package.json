@@ -1,0 +1,13 @@
+{
+  "name": "qpxexpressapilib",
+  "version": "1.0.0",
+  "description": "Lets you find the least expensive flights between an origin and a destination.",
+  "main": "./lib/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "APIMATIC SDK Generator",
+  "dependencies": {
+    "request": "^2.55.0",
+    "string": "^3.1.1"
+  }
+}
